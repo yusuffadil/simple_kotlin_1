@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">login_lat</string>
+    <string name="ilustration">Ilustration</string>
+    <string name="get_started">Get Started</string>
+    <string name="login">Login</string>
+    <string name="please_sign_in_to_continue">Please sign in to continue</string>
+    <string name="dont_have_account_sign_up">Dont have account? Sign Up</string>
+    <string name="todo">TODO</string>
+    <string name="create_account">Create Account</string>
+    <string name="already_have_account_sign_in">Already have account? Sign in</string>
+    <string name="yusuf_fadil">Yusuf Fadil</string>
+    <string name="financial_text">Financial</string>
+    <string name="profile_text">Profile</string>
+    <string name="financial_img">Financial</string>
+    <string name="profile_img">Profile</string>
+</resources>
